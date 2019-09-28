@@ -180,8 +180,6 @@ private:
 		return szRet;
 	}
 
-
-
 	UINT m_ShaderProgramID{};	//shader³ÌÐòid
 
 };
