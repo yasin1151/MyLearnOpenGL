@@ -25,6 +25,7 @@
     <ClInclude Include="src\defines.h" />
     <ClInclude Include="src\Shader\CMyShader.hpp" />
     <ClInclude Include="src\Test\ShaderTest.hpp" />
+    <ClInclude Include="src\Test\TextureTest.hpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

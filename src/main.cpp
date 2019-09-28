@@ -3,7 +3,8 @@
 
 #include <iostream>
 
-#include "Test/ShaderTest.hpp"
+// #include "Test/ShaderTest.hpp"
+#include "Test/TextureTest.hpp"
 
 
 using namespace  std;
@@ -19,7 +20,8 @@ const char* szTitle = "MyTestWindow";
 
 void TestLoop(GLFWwindow* pWindow)
 {
-	ShaderTestLoop(pWindow);
+	// ShaderTestLoop(pWindow);
+	TextureTestTestLoop(pWindow);
 }
 
 int main()

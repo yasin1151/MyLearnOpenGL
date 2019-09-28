@@ -35,5 +35,8 @@
     <ClInclude Include="src\Shader\CMyShader.hpp">
       <Filter>源文件\Shader</Filter>
     </ClInclude>
+    <ClInclude Include="src\Test\TextureTest.hpp">
+      <Filter>源文件\Test</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
